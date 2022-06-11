@@ -4,7 +4,7 @@ import Foods from "../Foods/Foods/Foods";
 const Home = () => {
     return (
         <main>
-            <Foods></Foods>
+            <Foods />
         </main>
     );
 };
